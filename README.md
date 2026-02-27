@@ -6,14 +6,14 @@
 
 ## 🚀 Sobre mim
 
-Atuo na evolução tecnológica de áreas comerciais, desenvolvendo automações, ETLs e integrações com APIs.  
+Atuo como DevOps com foco na evolução tecnológica de áreas comerciais, desenvolvendo automações, ETLs e integrações com APIs.  
 Experiência com customização de CRM via API e webhooks, modelagem de banco de dados e arquitetura serverless na AWS.  
 
 Tenho foco em desenvolvimento backend e construção de soluções escaláveis e eficientes.
 
 
 ## ⚙️ Tecnologias
-![My Skills](https://skillicons.dev/icons?i=python,java,aws,mysql,flutter)
+![My Skills](https://skillicons.dev/icons?i=python,java,aws,mysql,linux,flutter,firebase)
 
 
 ## 📫 Contato
