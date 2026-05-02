@@ -13,7 +13,7 @@ Tenho foco em desenvolvimento backend e construção de soluções escaláveis e
 
 
 ## ⚙️ Tecnologias
-![My Skills](https://skillicons.dev/icons?i=python,java,aws,mysql,linux,flutter,firebase)
+![My Skills](https://skillicons.dev/icons?i=python,docker,aws,java,mysql,linux,flutter,firebase)
 
 
 ## 📫 Contato
